@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to the TokenPlay Dev Blog
 
-You can use the [editor on GitHub](https://github.com/blocplay/tokenplaybackend/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Here you can read about the TokenPlay platform and where we are in our current development cycle. Our blog is penned by various members of our development team.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We will be committing to our Github [repositories](https://github.com/blocplay) regularly. We recommend you monitor our repos for regular updates!
 
 ### Markdown
 
